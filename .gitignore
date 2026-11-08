@@ -1,0 +1,7 @@
+# Local runtime state & secrets (never commit)
+.state/
+server.log
+__pycache__/
+*.pyc
+.venv/
+*.log
